@@ -10,4 +10,4 @@ Screenshot of webpage:
 
 Link to deployed webpage:
 
-[Challenge 1]:(https://zanderson1998.github.io/challenge1/)
+[Challenge 1](https://zanderson1998.github.io/challenge1/)
