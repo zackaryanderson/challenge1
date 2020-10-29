@@ -6,7 +6,7 @@ This includes screen reader accessibility and legibility of the html and css.
 
 
 Screenshot of webpage:
-![Screenshot of webpage](./assets/images/ScreenShot)
+![Screenshot of webpage](https://github.com/zanderson1998/challenge1/assets/images/ScreenShot.png)
 
 Link to deployed webpage:
 
