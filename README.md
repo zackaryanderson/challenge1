@@ -10,4 +10,4 @@ Screenshot of webpage:
 
 Link to deployed webpage:
 
-![Challenge 1](git@github.com:zanderson1998/challenge1.git)
+![Challenge 1](https://zanderson1998.github.io/challenge1/)
