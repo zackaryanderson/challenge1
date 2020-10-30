@@ -6,7 +6,7 @@ This includes screen reader accessibility and legibility of the html and css.
 
 
 Screenshot of webpage:
-![Screenshot of webpage](assets/images/ScreenShot.png)
+![Screenshot of webpage](assets/images/ScreenShot.jpg)
 
 Link to deployed webpage:
 
