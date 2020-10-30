@@ -10,4 +10,4 @@ Screenshot of webpage:
 
 Link to deployed webpage:
 
-[Horiseon](https://zanderson1998.github.io/challenge1/)
+[Horiseon](https://zackaryanderson.github.io/challenge1/)
